@@ -1,6 +1,10 @@
  body {
      background-color: #0f172a;
  }
+.BC{
+ display:flex;
+ align-item:centre;
+}
 .profile{
  align-item:centre;
 }
