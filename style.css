@@ -4,6 +4,7 @@
 #BC{
  display:flex;
  align-item:centre;
+ gap:10px;
 }
 .profile{
  align-item:centre;
